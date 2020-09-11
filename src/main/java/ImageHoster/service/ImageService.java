@@ -9,6 +9,7 @@ import java.util.ArrayList;
 import java.util.Date;
 import java.util.List;
 
+//This is image service
 @Service
 public class ImageService {
     @Autowired
